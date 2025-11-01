@@ -159,3 +159,4 @@ document.addEventListener('click', (e) => {
 
 const initial = window.location.hash.replace('#','') || 'splash';
 setView(initial);
+
